@@ -1,0 +1,60 @@
+300MB:
+Algorithm 1 performance: 
+Extracting words from txt file started:
+Extracting words from txt file completed
+number of unique words: 121668
+10th most common word: [('European', 318733), ('Mr', 210680), ('would', 180717), ('also', 178517), ('Commission', 172277), ('must', 156781), ('President', 150884), ('Union', 125350), ('Member', 121252), ('Parliament', 119643)]
+Runtime: 90.726990 seconds
+CPU utilization: 99.90%
+Memory usage: 8.89 MB
+
+
+Algorithm 2 performance: 
+Extracting words from txt file started:
+Extracting words from txt file completed
+10th most common word: [('European', 318733), ('Mr', 210680), ('would', 180717), ('also', 178517), ('Commission', 172277), ('must', 156781), ('President', 150884), ('Union', 125350), ('Member', 121252), ('Parliament', 119643)]
+Runtime: 86.996652 seconds
+CPU utilization: 99.90%
+Memory usage: 2.64 MB
+
+
+2.5GB:
+Algorithm 1 performance: 
+Extracting words from txt file started:
+Extracting words from txt file completed
+number of unique words: 1510017
+10th most common word: [('said', 2612121), ('would', 910779), ('one', 812228), ('also', 708992), ('Mr', 658579), ('people', 643920), ('year', 637848), ('de', 622408), ('years', 597943), ('two', 584332)]
+Runtime: 791.674194 seconds
+CPU utilization: 99.90%
+Memory usage: 9.47 MB
+
+
+Algorithm 2 performance: 
+Extracting words from txt file started:
+Extracting words from txt file completed
+10th most common word: [('said', 2612121), ('would', 910779), ('one', 812228), ('also', 708992), ('Mr', 658579), ('people', 643920), ('year', 637848), ('de', 622408), ('years', 597943), ('two', 584332)]
+Runtime: 756.754958 seconds
+CPU utilization: 100.00%
+Memory usage: 3.95 MB
+
+
+16GB
+Algorithm 1 performance:
+Extracting words from txt file started:
+Extracting words from txt file completed
+number of unique words: 3800179
+Top 10 most common words: [('said', 16958923), ('would', 5787913), ('one', 5015542), ('also', 4477929), ('people', 4015814), ('year', 3908562), ('Mr', 3742557), ('two', 3642128), ('first', 3590228), ('years', 3576158)]
+Runtime: 5436.350322 seconds
+CPU utilization: 99.80%
+Memory usage: 69.99 MB
+
+
+Algorithm 2 performance:
+Extracting words from txt file started:
+Extracting words from txt file completed
+10th most common word: [('said', 16958923), ('would', 5787913), ('one', 5015542), ('also', 4477929), ('people', 4015814), ('year', 3908562), ('Mr', 3742557), ('two', 3642128), ('first', 3590228), ('years', 3576158)]
+Runtime: 4848.604141 seconds
+CPU utilization: 99.90%
+Memory usage: 3.15 MB
+
+
